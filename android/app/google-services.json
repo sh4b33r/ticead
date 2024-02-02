@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907642462024",
+    "project_id": "ticead88",
+    "storage_bucket": "ticead88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907642462024:android:f533062742f1616dbedd7d",
+        "android_client_info": {
+          "package_name": "com.example.ticead"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhdJynkrKXDGdWaw_Icmeoy7HVVqmlFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
